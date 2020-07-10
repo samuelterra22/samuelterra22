@@ -28,3 +28,7 @@ My name is Samuel and I am a Web Developer
 -->
 
 🛠 ... and, this pages is still working in progress...
+
+
+
+_"There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies." - C.A.R Hoare"_
