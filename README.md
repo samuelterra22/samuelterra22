@@ -12,7 +12,7 @@
 
 ### Hi there 👋
 
-My name is Samuel and I am a Web Developer
+My name is Samuel ✌️
 
 :brazil: I'm from Brazil
 
