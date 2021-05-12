@@ -9,6 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/samuelterra22)](https://t.me/samuelterra22)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/samuelterra22/)](https://www.instagram.com/samuelterra22/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-808080?style=flat-square&labelColor=808080&logo=medium&logoColor=white&link=https://medium.com/@samuelterra22)](https://medium.com/@samuelterra22)
+[![Medium Badge](https://img.shields.io/badge/-Spotify-66b758?style=flat-square&labelColor=66b758&logo=spotify&logoColor=white&link=https://open.spotify.com/user/samuelterra22?si=20d86b9a591043b1)](https://open.spotify.com/user/samuelterra22?si=20d86b9a591043b1)
 
 ### Hi there 👋
 
