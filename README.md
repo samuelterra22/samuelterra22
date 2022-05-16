@@ -17,7 +17,7 @@ My name is Samuel ✌️
 
 :brazil: I'm from Brazil
 
-:rocket: I’m currently working at [@deltagrupo](https://www.linkedin.com/company/delta-assist/)
+:rocket: I’m currently working at [@deltagrupo](https://www.linkedin.com/company/deltaglobalbr/)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,9 +27,6 @@ My name is Samuel ✌️
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🛠 ... and, this pages is still working in progress...
-
 
 
 _"There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies." - C.A.R Hoare_
