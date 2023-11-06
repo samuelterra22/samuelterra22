@@ -17,7 +17,7 @@ My name is Samuel ✌️
 
 :brazil: I'm from Brazil
 
-:rocket: I’m currently working at [Delta Global](https://www.linkedin.com/company/deltaglobalbr/)
+:rocket: I’m currently working at [Woopi Stefanini](https://www.linkedin.com/company/woopistefanini)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
